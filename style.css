@@ -1,2 +1,9 @@
 
+  .feature:hover .feature-icon i {
+    color: rgb(0, 238, 255); /* Change this to the color you want on hover */
+  }
+
+  .feature:hover h2 {
+    color: rgb(0, 238, 255); /* Change this to the color you want on hover */
+  }
 
